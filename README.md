@@ -8,6 +8,12 @@ The created key and CSR are written to a file and have the password "changeit" -
 
 Once the CSR has been signed by a CA, the PKI Util can be used once again to create a PKCS12 and JKS export. The prior can be used in a web browser as a client certificate, and the latter as a KeyStore in Java based applications.
 
+Download
+------------
+The latest version can be downloaded from:
+
+https://jenkins.eitchnet.ch/view/eitchnet/job/ch.eitchnet.pki/ch.eitchnet$ch.eitchnet.pki/
+
 OpenSSL commands to perform the same and verify the resulting files
 =============
 
