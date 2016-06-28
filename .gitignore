@@ -1,6 +1,8 @@
 .settings/
 .classpath
 .project
-/test/
 /target/
-/.DS_Store
+.DS_Store
+.idea/
+*.iml
+test/
